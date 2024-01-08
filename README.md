@@ -152,8 +152,8 @@ EOF  all  create  destroy  help  quit  show  update
  
 
 ## Authors
-[Nouhaila Soussif](https://github.com/NouhailaSif)
-[Alistair000x](https://github.com/Alistair000x)
+- [Nouhaila Soussif](https://github.com/NouhailaSif)
+- [Alistair000x](https://github.com/Alistair000x)
 
 ## Bugs
 No known bugs at this time.
